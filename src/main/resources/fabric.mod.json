@@ -19,8 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "stationapi:event_bus": [
-      "net.mitask.mintmap.MintMap",
-      "net.mitask.mintmap.events.WaypointsLoad"
+      "net.mitask.mintmap.MintMap"
     ],
     "stationapi:event_bus_client": [
     ],
